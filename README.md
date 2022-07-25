@@ -1,1 +1,1 @@
-mini-microservices-blog
+A mini-microservices-blog application that is based on the lectures in [this Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/learn/lecture/19248060#overview)
