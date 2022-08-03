@@ -13,7 +13,9 @@ app.get('/posts', (req, res) => {
 });
 
 app.post('/events', (req, res) => {
+  const { type, data } = req.body;
 
+  
 });
 
 app.listen(4002, () => {
